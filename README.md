@@ -5,5 +5,8 @@
 2. how to run:
     - compile library.cpp and library_main.cpp
     - run the compiled executable
-    
-3. functionalities:
+
+3. desgin structure:
+
+
+4. functionalities:
