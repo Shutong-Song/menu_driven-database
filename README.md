@@ -14,5 +14,5 @@
   
 
 4. interface:
-
+    <img src="https://github.com/Shutong-Song/menu_driven-database/blob/media/t1.gif?raw=true">
 5. functionalities:
