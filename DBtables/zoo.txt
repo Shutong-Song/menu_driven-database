@@ -1,0 +1,4 @@
+name age limbs 
+tiger,1,4,
+turtle,110,4,
+rabbit,0.5,4,
