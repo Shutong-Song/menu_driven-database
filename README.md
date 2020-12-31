@@ -14,18 +14,18 @@
   
 
 4. interface:
-    - main interface:
+    - main interface: <br>
     <img src="https://github.com/Shutong-Song/menu_driven-database/blob/media/main.png?raw=true" width="350">
-    - show all schema:
+    - show all schema: <br>
     <img src="https://github.com/Shutong-Song/menu_driven-database/blob/media/showSchema.png?raw=true" width="300">
-    - create table:
+    - create table: <br>
     <img src="https://github.com/Shutong-Song/menu_driven-database/blob/media/createTable.png?raw=true" width="300">
-    - insert records to table:
+    - insert records to table: <br>
     <img src="https://github.com/Shutong-Song/menu_driven-database/blob/media/insertRecords.png?raw=true" width="300">
-    - delete records:
+    - delete records: <br>
     <img src="https://github.com/Shutong-Song/menu_driven-database/blob/media/deleteRecords.png?raw=true" width="300">
-    - drop table:
+    - drop table: <br>
     <img src="https://github.com/Shutong-Song/menu_driven-database/blob/media/dropTable.png?raw=true" width="300">
-    - display records:
+    - display records: <br>
     <img src="https://github.com/Shutong-Song/menu_driven-database/blob/media/displayRecords.png?raw=true" width="300">
 5. functionalities:
