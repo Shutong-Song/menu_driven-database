@@ -30,4 +30,5 @@
     <img src="https://github.com/Shutong-Song/menu_driven-database/blob/media/displayRecords.png?raw=true" width="300"> <br>
 5. functionalities:
     - column length constraint
-    - 
+    - error and exception handling: e.g. column length must be an integer; column variable cannot contain space or punctuation except underscore _
+    - optimization: insert and delete are stored in a vector, will operate(write to table or delete from table) only once
