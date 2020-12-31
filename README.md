@@ -15,5 +15,5 @@
 
 4. interface:
     - main interface:
-    <img src="https://github.com/Shutong-Song/menu_driven-database/blob/media/main.png?raw=true" width="500">
+    <img src="https://github.com/Shutong-Song/menu_driven-database/blob/media/main.png?raw=true" width="200">
 5. functionalities:
