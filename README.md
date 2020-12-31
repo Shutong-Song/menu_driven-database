@@ -7,6 +7,10 @@
     - run the compiled executable
 
 3. desgin structure:
+    1. library.cpp and library.h are a library class contains all the functionalities for this database
+    2. library_main.cpp is the main file that runs the database
+    3. DBtables folder structure:
+    ![](/home/simon/gitRepo/menu_driven-database/menu_driven-database.png)
 
 4. interface:
 
