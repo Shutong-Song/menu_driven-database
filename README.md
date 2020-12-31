@@ -10,7 +10,7 @@
     1. library.cpp and library.h are a library class contains all the functionalities for this database
     2. library_main.cpp is the main file that runs the database
     3. DBtables folder structure:
-    ![structure](https://https://github.com/Shutong-Song/menu_driven-database/blob/media/menu_driven-database.png?raw=true)
+    ![structure](https://github.com/Shutong-Song/menu_driven-database/blob/media/menu_driven-database.png?raw=true)
 
 4. interface:
 
