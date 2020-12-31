@@ -15,5 +15,7 @@
 
 4. interface:
     - main interface:
-    <img src="https://github.com/Shutong-Song/menu_driven-database/blob/media/main.png?raw=true" width="200">
+    <img src="https://github.com/Shutong-Song/menu_driven-database/blob/media/main.png?raw=true" width="350">
+    - show all schema:
+    <img src="https://github.com/Shutong-Song/menu_driven-database/blob/media/showSchema.png?raw=true" width="500">
 5. functionalities:
