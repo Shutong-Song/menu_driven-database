@@ -3,7 +3,7 @@
 1. description: A simple menu driven database written in C++ 11. It support general database functionalities like create and drop tables, insert and delete records, and display records in a table.
 
 2. A quick demo:
-![demo](img/db.git)
+![demo](img/db.gif)
 
 3. how to run:
     - compile library.cpp and library_main.cpp
